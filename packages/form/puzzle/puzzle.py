@@ -66,3 +66,4 @@ def puzzle(args):
     # fallback output
     res["output"] = "Send 'puzzle' to start customizing your chess puzzle."
     return res
+

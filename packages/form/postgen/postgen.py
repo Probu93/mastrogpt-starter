@@ -83,6 +83,7 @@ def postgen(args):
       for field in data.keys():
         print(data[field])
 
+
       inp = f"""Generate a post promoting Apache OpenServerless.
 Your job role is {data['job']}.
 The reason because you are using Apache OpenServerless is {data['why']}.

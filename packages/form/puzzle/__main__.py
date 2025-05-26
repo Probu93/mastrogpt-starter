@@ -6,3 +6,4 @@
 import puzzle
 def main(args):
   return { "body": puzzle.puzzle(args) }
+
